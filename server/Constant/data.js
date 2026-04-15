@@ -1,0 +1,93 @@
+export const products = [
+  {
+    id: 'item1',
+    shortTitle: 'Kitchen Essentials',
+    longTitle: 'Prestige Electric Water Boiler (1.2 L, White & Blue)',
+    mrp: 1299,
+    cost: 699,
+    discountPercent: '46%',
+    quantity: 1,
+    description: 'Compact and efficient electric boiler ideal for quick heating. Perfect for tea, coffee, and instant meals at home or hostel.',
+    extraDiscount: 'Extra ₹50 Off',
+    tagline: 'Hot Deal',
+    image: 'https://images.unsplash.com/photo-1586201375761-83865001e31c'
+  },
+  {
+    id: 'item2',
+    shortTitle: 'Kitchen Appliances',
+    longTitle: 'Inalsa Sandwich Grill Maker (Black, Non-stick Plates)',
+    mrp: 1599,
+    cost: 949,
+    discountPercent: '40%',
+    quantity: 1,
+    description: 'Prepare crispy sandwiches in minutes with this easy-to-use grill. Non-stick plates ensure hassle-free cleaning.',
+    extraDiscount: 'Flat ₹100 Off',
+    tagline: 'Top Picks',
+    image: 'https://images.unsplash.com/photo-1585238342028-4b7d52e4c2c6'
+  },
+  {
+    id: 'item3',
+    shortTitle: 'Fitness',
+    longTitle: 'FlexPro Resistance Bands Set for Full Body Workout',
+    mrp: 799,
+    cost: 299,
+    discountPercent: '62%',
+    quantity: 1,
+    description: 'Durable resistance bands for strength training, flexibility, and rehabilitation exercises at home or gym.',
+    extraDiscount: 'Up to 65% Off',
+    tagline: 'Fitness Special',
+    image: 'https://images.unsplash.com/photo-1599058917765-a780eda07a3e'
+  },
+  {
+    id: 'item4',
+    shortTitle: 'Wearables',
+    longTitle: 'NoiseFit Active Smartwatch (Black Strap, AMOLED Display)',
+    mrp: 5999,
+    cost: 3499,
+    discountPercent: '41%',
+    quantity: 1,
+    description: 'Track fitness, heart rate, and notifications with this sleek smartwatch featuring a vibrant display and long battery life.',
+    extraDiscount: 'Limited Time Offer',
+    tagline: 'Best Seller',
+    image: 'https://images.unsplash.com/photo-1518441902117-9d8b2e0d5f9c'
+  },
+  {
+    id: 'item5',
+    shortTitle: 'Personal Care',
+    longTitle: 'Philips Hair Dryer 1200W (Foldable Handle)',
+    mrp: 1999,
+    cost: 999,
+    discountPercent: '50%',
+    quantity: 1,
+    description: 'Lightweight and travel-friendly hair dryer with multiple heat settings for quick styling.',
+    extraDiscount: 'Starting ₹799',
+    tagline: 'Trending',
+    image: 'https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9'
+  },
+  {
+    id: 'item6',
+    shortTitle: 'Home Appliances',
+    longTitle: 'Compact Table Fan 250 mm (Silent Operation, White)',
+    mrp: 1990,
+    cost: 1099,
+    discountPercent: '45%',
+    quantity: 1,
+    description: 'Energy-efficient table fan with strong airflow and low noise, perfect for study tables and bedrooms.',
+    extraDiscount: 'Min 40% Off',
+    tagline: 'Customer Choice',
+    image: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b'
+  },
+  {
+    id: 'item7',
+    shortTitle: 'Audio',
+    longTitle: 'Realme Buds Wireless 2 Neo Bluetooth Earphones',
+    mrp: 2499,
+    cost: 1199,
+    discountPercent: '52%',
+    quantity: 1,
+    description: 'Enjoy immersive sound with deep bass, fast charging, and comfortable neckband design for all-day use.',
+    extraDiscount: 'Extra 5% Off',
+    tagline: 'Hot Selling',
+    image: 'https://images.unsplash.com/photo-1518443895914-2f5f9a3e4f9b'
+  }
+];
